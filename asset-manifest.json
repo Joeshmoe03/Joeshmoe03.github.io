@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Joeshmoe03/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/Joeshmoe03/static/js/main.3f7329c7.chunk.js",
-    "main.js.map": "/Joeshmoe03/static/js/main.3f7329c7.chunk.js.map",
-    "runtime~main.js": "/Joeshmoe03/static/js/runtime~main.99b7f105.js",
-    "runtime~main.js.map": "/Joeshmoe03/static/js/runtime~main.99b7f105.js.map",
-    "static/js/2.ae006cdb.chunk.js": "/Joeshmoe03/static/js/2.ae006cdb.chunk.js",
-    "static/js/2.ae006cdb.chunk.js.map": "/Joeshmoe03/static/js/2.ae006cdb.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/Joeshmoe03/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/Joeshmoe03/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/Joeshmoe03/index.html",
-    "precache-manifest.a1845c6ae9f36bd0628e5b5f0d0a5e5d.js": "/Joeshmoe03/precache-manifest.a1845c6ae9f36bd0628e5b5f0d0a5e5d.js",
-    "service-worker.js": "/Joeshmoe03/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/Joeshmoe03/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/Joeshmoe03/static/media/logo.06e73328.svg"
+    "main.css": "/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/static/js/main.3f7329c7.chunk.js",
+    "main.js.map": "/static/js/main.3f7329c7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b45b9353.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b45b9353.js.map",
+    "static/js/2.ae006cdb.chunk.js": "/static/js/2.ae006cdb.chunk.js",
+    "static/js/2.ae006cdb.chunk.js.map": "/static/js/2.ae006cdb.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3b68600824b9120ad5c2ae03ff1c43ef.js": "/precache-manifest.3b68600824b9120ad5c2ae03ff1c43ef.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.06e73328.svg"
   }
 }
