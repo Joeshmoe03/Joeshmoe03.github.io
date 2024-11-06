@@ -1,8 +1,8 @@
 {
   "name": "josefPages",
   "version": "0.1.0",
-  "homepage": "https://github.com/Joeshmoe03/Joeshmoe03.github.io.git",
-  "private": true,
+  "homepage": "https://Joeshmoe03.github.io",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
